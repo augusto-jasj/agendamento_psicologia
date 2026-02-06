@@ -1,0 +1,6 @@
+::1 - - [15/Nov/2025 18:54:52] "GET /index.html HTTP/1.1" 200 -
+::1 - - [15/Nov/2025 18:56:35] "GET /index.html?name=ef&room_number=1&capacity=1&location=1 HTTP/1.1" 304 -
+::1 - - [15/Nov/2025 18:56:35] "GET /assets/js/app.js HTTP/1.1" 304 -
+::1 - - [15/Nov/2025 18:56:35] "GET /assets/css/style.css HTTP/1.1" 304 -
+::1 - - [15/Nov/2025 18:56:36] "GET /index.html?name=ef&room_number=1&capacity=1&location=1 HTTP/1.1" 304 -
+::1 - - [15/Nov/2025 18:56:48] "GET /index.html?name=jose&email=admin%40gmail.com&phone=3434343434&date_of_birth=3223-02-23&medical_record=12 HTTP/1.1" 304 -
